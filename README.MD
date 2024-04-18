@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vicky
+![](https://res.cloudinary.com/dlpdm7vye/image/upload/v1713458180/m2a1m6abo6y6hij6eb84.gif}
+
+< align = "center" >Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vicky</>
 =============================================================================================================================
  Full Stack Developer
 --------------------
