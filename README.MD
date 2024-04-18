@@ -4,13 +4,13 @@
 
 <h1 align="center">Hi 👋, I'm Vicky</h1>
 
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
-I'm an aspiring Software Engineer and a budding Full Stack Developer with a deep understanding of the MERN stack. 🤓
+- I'm an aspiring Software Engineer and a budding Full Stack Developer with a deep understanding of the MERN stack. 🤓
+- I'm passionate about leveraging my technical abilities to contribute to meaningful projects that push the boundaries of what's possible. 
+- Feel free to explore my repositories and join me on this exciting journey. Together, let's code the future! 💻🚀
 
-I'm passionate about leveraging my technical abilities to contribute to meaningful projects that push the boundaries of what's possible. 
-
-Feel free to explore my repositories and join me on this exciting journey. Together, let's code the future! 💻🚀
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 * 🌍  I'm based in Jamshedpur
 * 🖥️  See my portfolio at [MyPortfolio](http://vicky1001.netlify.app)
@@ -27,6 +27,6 @@ Feel free to explore my repositories and join me on this exciting journey. Toget
 </p>
 
 
-### Badges
+### Languages Used: 
 
 <a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickykumar1001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
