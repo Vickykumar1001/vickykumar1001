@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://res.cloudinary.com/dlpdm7vye/image/upload/v1713460445/lqevppnu4qweyzuijpny.gif">
+    <img width="300px" src="https://res.cloudinary.com/dlpdm7vye/image/upload/v1713460445/lqevppnu4qweyzuijpny.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vicky</h1>
