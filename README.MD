@@ -1,9 +1,10 @@
-![](https://res.cloudinary.com/dlpdm7vye/image/upload/v1713458635/nvdx2xc1lqxgdjjm5509.gif)
+![])
+<p align="left" width="100%">
+    <img src="https://res.cloudinary.com/dlpdm7vye/image/upload/v1713458635/nvdx2xc1lqxgdjjm5509.gif">
+</p>
 
-<h1 align="center"> Hi 👋, I'm Vicky..! </h1>
-=============================================================================================================================
- <h2 align="center"> Full Stack Developer </h2>
---------------------
+# <h1 align="center"> Hi 👋, I'm Vicky..! </h1>
+## <h2 align="center"> Full Stack Developer </h2>
 
 I'm an aspiring Software Engineer and a budding Full Stack Developer with a deep understanding of the MERN stack. As a student eager to make my mark in the dynamic world of IT, I'm ready to apply my expertise and learn from real-world experiences.
 
