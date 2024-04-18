@@ -8,6 +8,7 @@
 
  I'm an aspiring Software Engineer and a budding Full Stack Developer with a deep understanding of the MERN stack. 🤓
  I'm passionate about leveraging my technical abilities to contribute to meaningful projects that push the boundaries of what's possible. 
+
  Feel free to explore my repositories and join me on this exciting journey. Together, let's code the future! 💻🚀
 
 * 🌍  I'm based in Jamshedpur
@@ -27,4 +28,4 @@
 
 ### Languages Used: 
 
-<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickykumar1001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickykumar1001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vickyLang" /></p>
