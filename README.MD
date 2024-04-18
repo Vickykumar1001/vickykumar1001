@@ -1,16 +1,14 @@
 <p align="center" width="100%">
-    <img height="350px" src="https://res.cloudinary.com/dlpdm7vye/image/upload/v1713458635/nvdx2xc1lqxgdjjm5509.gif">
+    <img src="https://res.cloudinary.com/dlpdm7vye/image/upload/v1713460445/lqevppnu4qweyzuijpny.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vicky</h1>
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- I'm an aspiring Software Engineer and a budding Full Stack Developer with a deep understanding of the MERN stack. 🤓
-- I'm passionate about leveraging my technical abilities to contribute to meaningful projects that push the boundaries of what's possible. 
-- Feel free to explore my repositories and join me on this exciting journey. Together, let's code the future! 💻🚀
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ I'm an aspiring Software Engineer and a budding Full Stack Developer with a deep understanding of the MERN stack. 🤓
+ I'm passionate about leveraging my technical abilities to contribute to meaningful projects that push the boundaries of what's possible. 
+ Feel free to explore my repositories and join me on this exciting journey. Together, let's code the future! 💻🚀
 
 * 🌍  I'm based in Jamshedpur
 * 🖥️  See my portfolio at [MyPortfolio](http://vicky1001.netlify.app)
