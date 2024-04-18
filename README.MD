@@ -1,4 +1,4 @@
-<p align="center" width="100%">
+<p align="center">
     <img src="https://res.cloudinary.com/dlpdm7vye/image/upload/v1713460445/lqevppnu4qweyzuijpny.gif">
 </p>
 
