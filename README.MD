@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, My name is Vicky</h1>
+Hi 👋, My name is Vicky
 =============================================================================================================================
-
-<h2 align="center"> Full Stack Developer</h2>
+ Full Stack Developer
 --------------------
 
 I'm an aspiring Software Engineer and a budding Full Stack Developer with a deep understanding of the MERN stack. As a student eager to make my mark in the dynamic world of IT, I'm ready to apply my expertise and learn from real-world experiences.
