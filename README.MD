@@ -1,7 +1,7 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vicky</h1>
+<h1 align="center">Hi 👋, My name is Vicky</h1>
 =============================================================================================================================
 
-Full Stack Developer
+<h2 align="center"> Full Stack Developer</h2>
 --------------------
 
 I'm an aspiring Software Engineer and a budding Full Stack Developer with a deep understanding of the MERN stack. As a student eager to make my mark in the dynamic world of IT, I'm ready to apply my expertise and learn from real-world experiences.
