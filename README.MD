@@ -1,5 +1,5 @@
-<p align="left" width="100%">
-    <img src="https://res.cloudinary.com/dlpdm7vye/image/upload/v1713458635/nvdx2xc1lqxgdjjm5509.gif">
+<p align="center" width="100%">
+    <img height="350px" src="https://res.cloudinary.com/dlpdm7vye/image/upload/v1713458635/nvdx2xc1lqxgdjjm5509.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vicky</h1>
@@ -7,7 +7,9 @@
 <h3 align="center">Full Stack Developer</h3>
 
 I'm an aspiring Software Engineer and a budding Full Stack Developer with a deep understanding of the MERN stack. 🤓
+
 I'm passionate about leveraging my technical abilities to contribute to meaningful projects that push the boundaries of what's possible. 
+
 Feel free to explore my repositories and join me on this exciting journey. Together, let's code the future! 💻🚀
 
 * 🌍  I'm based in Jamshedpur
