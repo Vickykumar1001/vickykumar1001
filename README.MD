@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm an ambitious Full Stack Developer with a deep understanding of the MERN stack. I'm eager to apply my expertise in a dynamic IT environment, where code meets innovation. With a strong foundation in Data Structures & Algorithms, I bring problem-solving prowess, meticulous attention to detail, and effective communication skills to the table. I'm passionate about leveraging my technical abilities to contribute to meaningful projects that push the boundaries of what's possible. In the ever-evolving tech landscape, I'm always seeking opportunities to grow and excel. Whether it's mastering a new programming language or diving into the latest tech trends, I'm all about staying ahead of the curve. Feel free to explore my repositories and join me on this exciting journey. Together, let's code the future! 💻🚀
+I'm an aspiring Software Engineer and a budding Full Stack Developer with a deep understanding of the MERN stack. As a student eager to make my mark in the dynamic world of IT, I'm ready to apply my expertise and learn from real-world experiences.
+
+With a strong foundation in Data Structures & Algorithms, I bring problem-solving prowess, meticulous attention to detail, and effective communication skills to the table. I'm passionate about leveraging my technical abilities to contribute to meaningful projects that push the boundaries of what's possible.
+
+In the ever-evolving tech landscape, I'm always seeking opportunities to grow and excel. Whether it's mastering a new programming language or diving into the latest tech trends, I'm all about staying ahead of the curve.
+
+Feel free to explore my repositories and join me on this exciting journey. Together, let's code the future! 💻🚀
 
 * 🌍  I'm based in Jamshedpur
 * 🖥️  See my portfolio at [MyPortfolio](http://vicky1001.netlify.app)
