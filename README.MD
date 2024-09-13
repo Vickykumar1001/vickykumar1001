@@ -11,7 +11,6 @@
 
  Feel free to explore my repositories and join me on this exciting journey. Together, let's code the future! 💻🚀
 
-* 🌍  I'm based in Jamshedpur
 * 🖥️  See my portfolio at [MyPortfolio](http://vicky1001.netlify.app)
 * ✉️  You can contact me at [vicky9060993097@gmail.com](mailto:vicky9060993097@gmail.com)
 * 📄  Know about my experiences [Resume](https://drive.google.com/file/d/1HwZ6geY0-0jlaENHBQDMKvhr98CpYPlr/view)
