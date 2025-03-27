@@ -25,5 +25,5 @@
 
 <h3 align="left"> Languages Used: </h3>
 
-<p width="100%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickykumar1001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vickyLang" /></p>
+<p width="100%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickykumar1001&show_icons=true&theme=tokyonight" alt="vickyLang" /></p>
 
